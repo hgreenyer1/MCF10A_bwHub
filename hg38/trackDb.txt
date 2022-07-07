@@ -1,0 +1,60 @@
+track DMSO_1h
+biDataURL DMSO_1h_CKDL220008791-1a-AK1971_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel DMSO 1h ATAC 
+longLabel DMSO 1 hour ATACseq 
+type bigWig 
+
+track DMSO_3h
+biDataURL DMSO_3h_CKDL220008791-1a-A5_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel DMSO 3h ATAC
+longLabel DMSO 3 hour ATACseq
+type bigWig
+
+track DMSO_6h
+biDataURL DMSO_6h_CKDL220008791-1a-AK1972_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel DMSO 6h ATAC
+longLabel DMSO 6 hour ATACseq
+type bigWig
+
+track DMSO_24h
+biDataURL dTAG_24_CKDL220008791-1a-AK1577_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel DMSO 24h ATAC
+longLabel DMSO 24 hour ATACseq
+type bigWig
+
+track DMSO_48h
+biDataURL DMSO_48_CKDL220008791-1a-AK1566_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel DMSO 48h ATAC
+longLabel DMSO 48 hour ATACseq
+type bigWig
+
+track dTAG_1h
+biDataURL dTAG_1h_CKDL220008791-1a-AK1569_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel dTAG 1h ATAC
+longLabel dTAG 1h hour ATACseq
+type bigWig
+
+track dTAG_3h
+biDataURL dTAG_3h_CKDL220008791-1a-AK671_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel dTAG 3h ATAC
+longLabel dTAG 3h hour ATACseq
+type bigWig
+
+track dTAG_6h
+biDataURL dTAG_6h_CKDL220008791-1a-AK1575_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel dTAG 6h ATAC
+longLabel dTAG 6h hour ATACseq
+type bigWig
+
+track dTAG_12h
+biDataURL dTAG_12_CKDL220008791-1a-AK1576_HY2WKDSX3_L2_1.bam_sorted.bam.bw
+shortLabel dTAG 12h ATAC
+longLabel dTAG 12h hour ATACseq
+type bigWig
+
+track dTAG_24h
+biDataURL dTAG_24_CKDL220008791-1a-AK1577_HY2WKDSX3_L2_1.bam_sorted.bam.bw 
+shortLabel dTAG 24h ATAC
+longLabel dTAG 24h hour ATACseq
+type bigWig
+

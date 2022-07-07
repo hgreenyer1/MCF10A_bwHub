@@ -1,0 +1,6 @@
+hub bwHub
+shortLabel BigWig Hub 
+longLabel MCF10A BigWig Hub 
+genomesFile genomes.txt
+email haley.greenyer@uvm.edu
+ 
